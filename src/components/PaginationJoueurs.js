@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Joueurs from "./Joueurs"; // Assuming Joueurs is in the same directory
+import Joueurs from "./Joueurs"; 
 
 const PlayersList = ({ players, onPlayerSelect}) => {
   const [currentIndex, setCurrentIndex] = useState({
@@ -9,7 +9,7 @@ const PlayersList = ({ players, onPlayerSelect}) => {
     Forward: 0,
   });
 
-  // Assuming 'players' is the array of player objects passed as a prop
+  
   const positions = ["Midfielder", "Defender", "Goalkeeper", "Forward"];
   const playersPerPage = 5;
 
