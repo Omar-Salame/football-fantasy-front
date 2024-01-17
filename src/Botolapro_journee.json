@@ -1,0 +1,50 @@
+[
+    {
+        "accueil": "MAS",
+        "visite": "FAR",
+        "date": "08-12-2023",
+        "temps": "16:00"
+      },
+      {
+        "accueil": "FUS",
+        "visite": "IRT",
+        "date": "08-12-2023",
+        "temps": "18:00"
+      },
+      {
+        "accueil": "RCA",
+        "visite": "RCAZ",
+        "date": "09-12-2023",
+        "temps": "15:00"
+      },
+      {
+        "accueil": "JSS",
+        "visite": "UTS",
+        "date": "09-12-2023",
+        "temps": "18:00"
+      },
+      {
+        "accueil": "SCCM",
+        "visite": "MCO",
+        "date": "10-12-2023",
+        "temps": "16:00"
+      },
+      {
+        "accueil": "OCS",
+        "visite": "CAYB",
+        "date": "10-12-2023",
+        "temps": "18:00"
+      },
+      {
+        "accueil": "MAT",
+        "visite": "RSB",
+        "date": "13-12-2023",
+        "temps": "18:00"
+      },
+      {
+        "accueil": "HUSA",
+        "visite": "WAC",
+        "date": "26-12-2023",
+        "temps": "18:00"
+      }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "equipe": "FAR Rabat",
+        "pts": 33,
+        "mj": 20,
+        "gagne": 10,
+        "nul": 3,
+        "perdus": 2,
+        "bp": 33,
+        "bc": 13
+    },
+    {
+        "id": 2,
+        "equipe": "RCA Raja Casablanca Athletic",
+        "pts": 33,
+        "mj": 17,
+        "gagne": 9,
+        "nul": 6,
+        "perdus": 0,
+        "bp": 27,
+        "bc": 10
+    },
+    {
+        "id": 3,
+        "equipe": "RSB Berkane",
+        "pts": 26,
+        "mj": 11,
+        "gagne": 6,
+        "nul": 8,
+        "perdus": 1,
+        "bp": 20,
+        "bc": 9
+    },
+    {
+        "id": 4,
+        "equipe": "Wydad Casablanca",
+        "pts": 25,
+        "mj": 15,
+        "gagne": 7,
+        "nul": 4,
+        "perdus": 4,
+        "bp": 18,
+        "bc": 14
+    },
+    {
+        "id": 5,
+        "equipe": "FUS Rabat",
+        "pts": 21,
+        "mj": 15,
+        "gagne": 5,
+        "nul": 6,
+        "perdus": 4,
+        "bp": 15,
+        "bc": 14
+    },
+    {
+        "id": 6,
+        "equipe": "Moghreb Tétouan",
+        "pts": 20,
+        "mj": 15,
+        "gagne": 4,
+        "nul": 8,
+        "perdus": 3,
+        "bp": 14,
+        "bc": 11
+    },
+    {
+        "id": 7,
+        "equipe": "Olympic Club de Safi",
+        "pts": 20,
+        "mj": 15,
+        "gagne": 4,
+        "nul": 8,
+        "perdus": 3,
+        "bp": 14,
+        "bc": 14
+    },
+    {
+        "id": 8,
+        "equipe": "Maghreb Fès",
+        "pts": 19,
+        "mj": 15,
+        "gagne": 4,
+        "nul": 7,
+        "perdus": 4,
+        "bp": 18,
+        "bc": 16
+    },
+    {
+        "id": 9,
+        "equipe": "Renaissance Club Zemamra",
+        "pts": 19,
+        "mj": 15,
+        "gagne": 5,
+        "nul": 4,
+        "perdus": 6,
+        "bp": 19,
+        "bc": 21
+        },
+        {
+        "id": 10,
+        "equipe": "Union de Touarga",
+        "pts": 18,
+        "mj": 15,
+        "gagne": 5,
+        "nul": 3,
+        "perdus": 7,
+        "bp": 17,
+        "bc": 19
+        },
+        {
+        "id": 11,
+        "equipe": "SC Chabab Mohammédia",
+        "pts": 18,
+        "mj": 15,
+        "gagne": 5,
+        "nul": 3,
+        "perdus": 7,
+        "bp": 14,
+        "bc": 17
+        },
+        {
+        "id": 12,
+        "equipe": "MCO Oujda",
+        "pts": 16,
+        "mj": 15,
+        "gagne": 4,
+        "nul": 4,
+        "perdus": 7,
+        "bp": 13,
+        "bc": 23
+        },
+        {
+        "id": 13,
+        "equipe": "Hassania Agadir",
+        "pts": 15,
+        "mj": 15,
+        "gagne": 3,
+        "nul": 6,
+        "perdus": 6,
+        "bp": 14,
+        "bc": 20
+        },
+        {
+        "id": 14,
+        "equipe": "Jeunesse Sportive Soualem",
+        "pts": 15,
+        "mj": 15,
+        "gagne": 4,
+        "nul": 3,
+        "perdus": 8,
+        "bp": 15,
+        "bc": 24
+        },
+        {
+        "id": 15,
+        "equipe": "Ittihad Tanger",
+        "pts": 11,
+        "mj": 15,
+        "gagne": 1,
+        "nul": 8,
+        "perdus": 6,
+        "bp": 12,
+        "bc": 24
+        },
+        {
+        "id": 16,
+        "equipe": "Youssoufia Berrechid",
+        "pts": 9,
+        "mj": 15,
+        "gagne": 2,
+        "nul": 3,
+        "perdus": 10,
+        "bp": 11,
+        "bc": 25
+        }
+]
